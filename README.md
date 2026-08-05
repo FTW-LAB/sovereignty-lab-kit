@@ -1,11 +1,23 @@
 # sovereignty-lab-kit
 
-Local-first kit defaults and evidence checklists (org **FTW-LAB**).
+Local-first sovereignty lab kit and evidence checklists
+
+**Org:** [FTW-LAB](https://github.com/FTW-LAB) · **Hub:** [https://ftwlab.com/use-cases](https://ftwlab.com/use-cases)
 
 ```bash
 git clone https://github.com/FTW-LAB/sovereignty-lab-kit.git
+cd sovereignty-lab-kit
+npm test
 ```
 
-Pairs with GGUF `model_pull` via tarx-bridge for offline SOC lab. Site: https://ftwlab.com/use-cases
+## Security
+See [SECURITY.md](./SECURITY.md) · https://ftwlab.com/security · ops@ftwlab.com
 
-ops@ftwlab.com
+## Agent
+See [AGENT.md](./AGENT.md)
+
+## Posture
+UNCLASSIFIED // PUBLIC SOURCE  
+INFOSEC · OSINT · CTI · GEOIP · MODELS  
+
+Public source only. Authorized use. GeoIP is not identity.
