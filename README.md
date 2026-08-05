@@ -2,19 +2,19 @@
 
 Local-first sovereignty lab kit and evidence checklists
 
-**Org:** [FTW-LAB](https://github.com/FTW-LAB) · **Hub:** [https://ftwlab.com/use-cases](https://ftwlab.com/use-cases)
+**Securist** · [github.com/securist/sovereignty-lab-kit](https://github.com/securist/sovereignty-lab-kit) · [https://secur.ist/use-cases](https://secur.ist/use-cases)
 
 ```bash
-git clone https://github.com/FTW-LAB/sovereignty-lab-kit.git
+git clone https://github.com/securist/sovereignty-lab-kit.git
 cd sovereignty-lab-kit
 npm test
 ```
 
 ## Security
-See [SECURITY.md](./SECURITY.md) · https://ftwlab.com/security · ops@ftwlab.com
+[SECURITY.md](./SECURITY.md) · https://secur.ist/security · security@secur.ist
 
 ## Agent
-See [AGENT.md](./AGENT.md)
+[AGENT.md](./AGENT.md)
 
 ## Posture
 UNCLASSIFIED // PUBLIC SOURCE  
