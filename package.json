@@ -1,0 +1,16 @@
+{
+  "name": "@securist/sovereignty-lab-kit",
+  "version": "0.1.0",
+  "description": "Local-first sovereignty lab kit and evidence checklists",
+  "type": "module",
+  "license": "MIT",
+  "repository": "https://github.com/Securist-InfoSec/sovereignty-lab-kit",
+  "homepage": "https://secur.ist/use-cases",
+  "scripts": {
+    "test": "node -e \"console.log('ok', require('./package.json').name)\""
+  },
+  "keywords": [
+    "securist",
+    "infosec"
+  ]
+}
